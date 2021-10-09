@@ -4,7 +4,7 @@ accordion project is a simple and little application.
 
 ### Technologies
 
-React
+React, Chakra ui
 
 ### License
 
